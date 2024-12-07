@@ -75,7 +75,27 @@
 <details>
   <summary><h2>8. Payment and Transactions</h2></summary>
 
-#### 🔘 Payment Gateway Integration
+<details>
+  <summary><h4>🔘 Payment Gateway Integration</h4></summary>
+
+###### Electronic Payment (e-Payment) Companies in Iraq<sup>r01</sup>:
+
+- [ ] Al Qassa Financial Services & Electronic Payment Limited Liability Company
+- [ ] Al Saqi Company for Electronic Payment Services
+- [ ] Amwal Electronic Banking Services Company
+- [ ] Areeba Company for Information Technologies and Electronic Payment
+- [ ] Arab Electronic Payment Company
+- [ ] Blue Pay
+- [ ] CSC Electronic Payment Company
+- [ ] NEO
+- [ ] National Gateway Company for Electronic Payment and Financial Services Ltd.
+- [ ] Qi Card (International Smart Card Company)
+- [ ] Switch
+- [ ] Tabadul
+- [ ] Yanah Banking & Electronic Services Company
+
+</details>
+
 #### 🔘 Fraud Detection
 
 </details>
@@ -162,3 +182,8 @@
 > Registering and submitting the website to major search engines (e.g., Google, Bing) for indexing and improved discoverability.
 - [ ] Web Server Security Enhancement:
 > Strengthening the cybersecurity of the web server by implementing robust security measures, such as firewalls, SSL/TLS encryption, regular updates, intrusion detection systems, and secure configurations.
+
+
+# References
+
+###### <sup>r01</sup>[Mapping the Role of FinTech in Iraq: 3.1 Electronic Payment Companies - (Page 12 -13)]( https://drive.google.com/file/d/1rgBclcW9MBLMfzM3Oj8EWaakn0UYkNV7)
