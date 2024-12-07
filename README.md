@@ -18,6 +18,32 @@ DMARC
 SPF
 DKIM
 
+## Hosting
+## Design
+## Database
+## CI/CD
+
+## Search
+## Authentication
+## Logging
+## Feedback
+## Version Control
+## API Keys
+## Email
+## File Storage
+## SMS
+## Payment Processing
+## ab Testing
+## Documentation
+## Events
+## Comnmunication
+### VoIP
+## Documentation
+## Issue Tracker
+## Marketing
+## 
+
+
 
 # Features
 - [ ] Search Engine Optimization (SEO):
