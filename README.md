@@ -78,7 +78,7 @@
 <details>
   <summary><h4>🔘 Payment Gateway Integration</h4></summary>
 
-###### Electronic Payment (e-Payment) Companies in Iraq<sup>r01</sup>:
+###### List of Electronic Payments (e-Payment) in Iraq<sup>r01</sup>:
 
 - [ ] Al Qassa Financial Services & Electronic Payment Limited Liability Company
 - [ ] Al Saqi Company for Electronic Payment Services
@@ -95,6 +95,17 @@
 - [ ] Yanah Banking & Electronic Services Company
 
 </details>
+<details>
+  <summary><h4>🔘 Mobile Payments (e-Wallet)</h4></summary>
+
+###### List of Mobile Payment (e-Wallet) in Iraq<sup>r01</sup>:
+- [ ] Asia Pay
+- [ ] FastPay
+- [ ] Nass Wallet
+- [ ] Zain cash
+
+</details>
+
 
 #### 🔘 Fraud Detection
 
@@ -186,4 +197,4 @@
 
 # References
 
-###### <sup>r01</sup>[Mapping the Role of FinTech in Iraq: 3.1 Electronic Payment Companies - (Page 12 -13)]( https://drive.google.com/file/d/1rgBclcW9MBLMfzM3Oj8EWaakn0UYkNV7)
+###### <sup>r01</sup>[Mapping the Role of FinTech in Iraq: 3.1 Electronic Payment Companies - (Page 12 -14)]( https://drive.google.com/file/d/1rgBclcW9MBLMfzM3Oj8EWaakn0UYkNV7)
