@@ -73,7 +73,7 @@
 #### Campaign Management
 
 ## 13. Documentation
-- [ ] Wayback Machine
+- [ ] Wayback Machine - [The Internet Archive](https://archive.org/)
 #### Developer Documentation
 #### User Documentation
 
