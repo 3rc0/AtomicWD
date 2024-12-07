@@ -80,29 +80,29 @@
 
 ###### List of Electronic Payments (e-Payment) in Iraq<sup>r01</sup>:
 
-- [ ] Al Qassa Financial Services & Electronic Payment Limited Liability Company
-- [ ] Al Saqi Company for Electronic Payment Services
+- [ ] [Al Qassa Financial Services & Electronic Payment Limited Liability Company](https://alqaseh.iq/)
+- [ ] [Al Saqi Company for Electronic Payment Services](https://alsaqi.iq/)
 - [ ] Amwal Electronic Banking Services Company
-- [ ] Areeba Company for Information Technologies and Electronic Payment
-- [ ] Arab Electronic Payment Company
-- [ ] Blue Pay
-- [ ] CSC Electronic Payment Company
-- [ ] NEO
-- [ ] National Gateway Company for Electronic Payment and Financial Services Ltd.
-- [ ] Qi Card (International Smart Card Company)
-- [ ] Switch
-- [ ] Tabadul
-- [ ] Yanah Banking & Electronic Services Company
+- [ ] [Areeba Company for Information Technologies and Electronic Payment](https://www.areeba.com/)
+- [ ] [Arab Electronic Payment Company](https://www.aps.iq/)
+- [ ] [Blue Pay](https://blue.com.iq/)
+- [ ] [CSC Electronic Payment Company](https://www.cscjordan.com/)
+- [ ] [NEO](https://neo.iq/)
+- [ ] [National Gateway Company for Electronic Payment and Financial Services Ltd.](http://www.ng.iq/)
+- [ ] [Qi Card (International Smart Card Company)](https://qi.iq/)
+- [ ] [Switch](https://switch.com.iq/)
+- [ ] [Tabadul](https://tabadul.iq/)
+- [ ] [Yanah Banking & Electronic Services Company](https://www.ybservice.iq/)
 
 </details>
 <details>
   <summary><h4>🔘 Mobile Payments (e-Wallet)</h4></summary>
 
 ###### List of Mobile Payment (e-Wallet) in Iraq<sup>r01</sup>:
-- [ ] Asia Pay
-- [ ] FastPay
-- [ ] Nass Wallet
-- [ ] Zain cash
+- [ ] [Asia Pay](https://www.asiapay.iq/)
+- [ ] [FastPay](https://www.fast-pay.iq/)
+- [ ] [Nass Wallet](https://nass.iq/)
+- [ ] [Zain cash](https://www.zaincash.iq/)
 
 </details>
 
