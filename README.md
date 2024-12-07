@@ -107,4 +107,3 @@
 > Registering and submitting the website to major search engines (e.g., Google, Bing) for indexing and improved discoverability.
 - [ ] Web Server Security Enhancement:
 > Strengthening the cybersecurity of the web server by implementing robust security measures, such as firewalls, SSL/TLS encryption, regular updates, intrusion detection systems, and secure configurations.
-- [ ] Main Combin
