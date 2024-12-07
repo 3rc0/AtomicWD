@@ -41,6 +41,7 @@
 ## 7. Communication Systems
 #### Email Integration
 #### VoIP and Messaging
+- [ ] [3CX](https://www.3cx.com/)
 #### SMS Integration
 
 ## 8. Payment and Transactions
