@@ -3,7 +3,13 @@
 <details>
   <summary> <h2>1. System Architecture and Infrastructure</h2></summary>
   
-#### 🔘 Hosting
+<details>
+  <summary><h4>🔘 Hosting</h4></summary>
+
+ - Static Website
+ - Dynamic Website  
+</details>
+
 #### 🔘 Content Delivery Network (CDN)
 #### 🔘 File Storage:
 
