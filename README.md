@@ -29,8 +29,13 @@
 #### 🔘 Key Management
 #### 🔘 Compliance
 #### 🔘 Vulnerability Management
+<details><summary><h4>🔘 Cybersecurity Framework</h4></summary>
 
+- [ ] [OWASP (Open Web Application Security Project)](https://owasp.org/)
+- [ ] [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [ ] [Zero Trust Architecture](https://zerotrust.cyber.gov/)
 
+</details>
 </details>
 <details>
 
